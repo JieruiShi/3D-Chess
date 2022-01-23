@@ -1,2 +1,2 @@
-# 3D-Chess
-3D chess game with pygame
+## 3D-Chess
+Chess in 3D board, displayed via pygame
